@@ -1,0 +1,1 @@
+It is coded in python and used Numpy, Scikit learn and Pandas library. Given different attributes such as Clump Thickness ,Uniformity of cell size, Uniformity of cell shape etc we would be able to predict whether the patient has breast cancer or not.
